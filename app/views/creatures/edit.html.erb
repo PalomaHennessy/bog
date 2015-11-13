@@ -1,0 +1,11 @@
+<h1>Edit Your Sighting</h1>
+
+
+
+<div id="editform"><%= bootstrap_form_for @creature do |t| %>
+  <%= t.text_field :name %>
+  <%= t.text_area :description %>
+
+  <%= t.primary %>
+<% end %>
+</div>

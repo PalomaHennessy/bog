@@ -1,0 +1,81 @@
+body {
+	font-family: 'Arvo', serif;
+}
+
+h1{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	font-family: 'Arvo', serif;
+	color: white;
+
+}
+
+
+#new_creature {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+
+#deletecreature {
+	margin-top: 10px;
+
+}
+
+#new {
+	margin-top: 10px;
+}
+.well {
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 30px;
+}
+
+img {
+	display: block;
+	margin: auto;
+	height: 500px;
+}
+
+#enter {
+	 margin-left: 660px;
+	 margin-top: 30px;
+}
+
+#background1 {
+	background-image: url(http://i.imgur.com/KnAWeko.jpg); 
+}
+
+.background {
+	width: 100%;
+	position:fixed !important;
+	position:absolute;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	background-color: white;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+
+}
+
+#header1 {
+	color:white;
+	font-family: 'Arvo', serif;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+#editform {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+
+
+
+
